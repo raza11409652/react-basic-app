@@ -1,0 +1,14 @@
+/**
+global.css
+app.css
+style.css
+**/
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+}
+
+input {
+  margin-bottom: 10px !important;
+}

@@ -1,0 +1,13 @@
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login-form,
+.forget-form {
+  width: 500px;
+  padding: 1rem;
+  border-radius: 4px;
+  background-color: #fff;
+}
